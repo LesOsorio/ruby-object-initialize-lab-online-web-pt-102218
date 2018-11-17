@@ -12,7 +12,7 @@
       name
     end
 
-    def initialize(breed)
+    def breed
       @breed = breed
     end
 
@@ -26,4 +26,3 @@
   end
 
   fido = Dog.new("Fido","Pug")
-  
