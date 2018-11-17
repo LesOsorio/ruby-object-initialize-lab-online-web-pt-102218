@@ -24,4 +24,3 @@
       breed
     end
   end
-
