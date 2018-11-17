@@ -26,3 +26,4 @@
   end
 
   fido = Dog.new("Fido")
+  fido.breed = "Pug"
