@@ -12,7 +12,7 @@
       name
     end
 
-    def Doginitialize(breed)
+    def Dog_initialize(breed)
       @breed = breed
     end
 
